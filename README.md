@@ -7,5 +7,3 @@ Connect with me on LinkedIn.
 [![Rishabh's Github Stats](https://streak-stats.demolab.com/?user=rajrishabh6699&theme=dark)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajrishabh6699&layout=compact)
-
